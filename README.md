@@ -136,4 +136,4 @@ where uv       # Windows
 
 Save, close, and reopen Claude Desktop
 
-## Checkout medium article for more details: [How to Build a Local MCP Server](https://medium.com/@yourusername/how-to-build-a-local-mcp-server-1234567890)
+## Checkout medium article for more details: [Understanding MCP: A Bridge Between AI and External Data](https://medium.com/@anupbal321/understanding-mcp-a-bridge-between-ai-and-external-data-5f37efccbe73)
